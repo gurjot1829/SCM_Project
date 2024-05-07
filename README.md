@@ -1,3 +1,4 @@
 # SCM_Project
 
-This is first line of README.md file
+Blasta!<br>
+The project is made in collaboration with Parneet, Gurjot and Gurleen.<br>
